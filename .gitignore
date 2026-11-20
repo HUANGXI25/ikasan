@@ -38,3 +38,6 @@ esb.mv.db
 /ikasaneip/component/endpoint/quartz-schedule/tmp-1640956192819/
 /ikasaneip/cli/shell/jar/persistence/
 /ikasaneip/sample/spring-boot/sftp-jms/scheduler-recovery/
+.claude/worktrees/
+CLAUDE.local.md
+.claude/settings.local.json
